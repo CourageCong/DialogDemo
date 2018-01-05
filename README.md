@@ -1,5 +1,6 @@
 # DialogDemo
-Some kinds of system dialog.
+
+csdn传送门： [Android对话框详解](http://blog.csdn.net/dacongge/article/details/78965005)
 
 > 前言：我想对十年前的自己说：“不要懒惰。”我想在十年后对十年前的自己说：“谢谢你的坚持。”
 
